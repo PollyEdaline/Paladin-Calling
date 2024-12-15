@@ -3,7 +3,7 @@
 <subtypes>
 	<class ID="Callings" ChargenTitle="choose calling" SingularTitle="calling">
 		<subtype Name="Paladin" class="Callings" Gear="StartingGear_Paladin" Tile="Creatures/class_paladin.png" DetailColor="B">
-			<stat Name="Strength" Bonus="2" />
+			<stat Name="Toughness" Bonus="2" />
 			<skills>
 				<skill Name="Cudgel" />
 				<skill Name="Shield" />
