@@ -10,9 +10,10 @@ Class features:
 - +300 reputation with the Mechanimists
 
 Starting equipment:
-- Iron Mace
+- Bronze Mace
 - Steel Shield
 - Leather Armor
+- Leather Moccasins
 
 Starting items:
 - 1 copy of The Canticles Chromaic, Verses XVII-XXIV
@@ -20,4 +21,4 @@ Starting items:
 - 2 empty waterskins
 - 2 waterskins with 32 drams of fresh water each
 - 8-10 crusty loaves
-- 2-3 witchwood bark
+- 3-4 witchwood bark
