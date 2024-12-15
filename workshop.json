@@ -1,0 +1,8 @@
+{
+  "WorkshopId": 3384765754,
+  "Title": "Paladin Calling",
+  "Description": "Adds a simple Mechanimist paladin calling, complete with a custom sprite.\r\n\r\nClass features:\r\n[list]\r\n[*]+2 Strength\r\n[*]Cudgel\r\n[*]Shield\r\n[*]Shield Slam\r\n[*]Charge\r\n[*]+300 reputation with the Mechanimists\r\n[/list]\r\n\r\nStarting equipment:\r\n[list]\r\n[*]Iron Mace\r\n[*]Steel Shield\r\n[*]Leather Armor\r\n[/list]\r\n\r\nStarting items:\r\n[list]\r\n[*]1 copy of The Canticles Chromaic, Verses XVII-XXIV\r\n[*]9-15 torches\r\n[*]2 empty waterskins\r\n[*]2 waterskin with 32 drams of fresh water each\r\n[*]8-10 crusty loaves\r\n[*]2-3 witchwood bark\r\n[/list]",
+  "Tags": "subtype,calling",
+  "Visibility": "0",
+  "ImagePath": "preview.png"
+}
