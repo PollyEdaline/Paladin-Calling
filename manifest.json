@@ -1,0 +1,9 @@
+{
+    "id": "Polly_PaladinCalling",
+    "title": "Paladin Calling",
+    "description": "Adds the Paladin as an available calling.",
+    "version": "1.0.0",
+    "author": "Pollychan",
+    "tags": "Subtype",
+    "PreviewImage": "preview.png"
+}

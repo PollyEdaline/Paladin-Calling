@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<subtypes>
+	<class ID="Callings" ChargenTitle="choose calling" SingularTitle="calling">
+		<subtype Name="Paladin" class="Callings" Gear="StartingGear_Paladin" Tile="Creatures/class_paladin.png" DetailColor="B">
+			<stat Name="Strength" Bonus="2" />
+			<skills>
+				<skill Name="Cudgel" />
+				<skill Name="Shield" />
+				<skill Name="Shield_Slam" />
+				<skill Name="Tactics_Charge" />
+			</skills>
+			<reputations>
+				<reputation With="Mechanimists" Value="300" />
+			</reputations>
+		</subtype>
+	</class>
+</subtypes>
