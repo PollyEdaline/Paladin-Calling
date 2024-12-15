@@ -7,10 +7,10 @@
 			
 			<object Blueprint="Canticles3" Number="1" />
 			<object Blueprint="HalfFullWaterskin" Number="2" />
-			<object Blueprint="Goat Jerky" Number="8-10" />
+			<object Blueprint="Crusty Loaf" Number="8-10" />
 			<object Blueprint="Steel Shield" Number="1" />
 			<object Blueprint="Leather Armor" Number="1" />
-			<object Blueprint="Iron Mace" Number="1" />
+			<object Blueprint="Warhammer2" Number="1" />
 			<object Blueprint="Leather Boots" Number="1" />
 			<object Blueprint="Witchwood Bark" Number="3-4" />
 		</group>

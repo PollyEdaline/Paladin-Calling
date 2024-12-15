@@ -19,5 +19,5 @@ Starting items:
 - 9-15 torches
 - 2 empty waterskins
 - 2 waterskin with 32 drams of fresh water each
-- 2-3 crusty loaves
+- 8-10 crusty loaves
 - 2-3 witchwood bark
