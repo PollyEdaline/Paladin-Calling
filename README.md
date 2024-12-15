@@ -1,5 +1,5 @@
 # Paladin Calling for Caves of Qud
-A fairly simple mod that adds a Mechanimist paladin calling to Caves of Qud, complete with a custom sprite.
+Adds a simple Mechanimist paladin calling to Caves of Qud, complete with a custom sprite.
 
 Class features:
 - +2 Strength
