@@ -18,6 +18,6 @@ Starting items:
 - 1 copy of The Canticles Chromaic, Verses XVII-XXIV
 - 9-15 torches
 - 2 empty waterskins
-- 2 waterskin with 32 drams of fresh water each
+- 2 waterskins with 32 drams of fresh water each
 - 8-10 crusty loaves
 - 2-3 witchwood bark
