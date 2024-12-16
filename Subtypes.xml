@@ -6,6 +6,7 @@
 			<stat Name="Toughness" Bonus="2" />
 			<skills>
 				<skill Name="Cudgel" />
+				<skill Name="Cudgel_Bludgeon" />
 				<skill Name="Shield" />
 				<skill Name="Shield_Slam" />
 				<skill Name="Tactics_Charge" />

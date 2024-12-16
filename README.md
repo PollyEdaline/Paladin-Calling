@@ -4,13 +4,14 @@ Adds a simple Mechanimist paladin calling to Caves of Qud, complete with a custo
 Class features:
 - +2 Strength
 - Cudgel
+- Bludgeon
 - Shield
 - Shield Slam
 - Charge
 - +300 reputation with the Mechanimists
 
 Starting equipment:
-- Bronze Mace
+- Iron Mace
 - Steel Shield
 - Leather Armor
 - Leather Moccasins
